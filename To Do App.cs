@@ -21,5 +21,10 @@ namespace todoapp
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lblText.Text = txtTask.Text;
+        }
     }
 }
