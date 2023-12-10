@@ -1,0 +1,10 @@
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\bin\Debug\todoapp.exe.config
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\bin\Debug\todoapp.exe
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\bin\Debug\todoapp.pdb
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.csproj.AssemblyReference.cache
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.Properties.Resources.resources
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.csproj.GenerateResource.cache
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.csproj.CoreCompileInputs.cache
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.exe
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.pdb
+C:\Users\RASH\Desktop\todoapp\todoapp\todoapp\todoapp\obj\Debug\todoapp.Form1.resources
